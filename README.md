@@ -1,2 +1,2 @@
-# stast220
+# stats220
 Repository for stats220
