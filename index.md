@@ -1,4 +1,10 @@
-# Hello world
+# Assignment 1 Part A
+## Spongebob meme
+
+
+![](spongebob_meme.png)
+
+
 ```
 library(magick)
 campus_text <- image_blank(width = 500, height = 381, color = "#3366ff") %>%
