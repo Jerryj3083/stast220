@@ -1,6 +1,6 @@
 # Assignment 1
 ## Welcome to my Assignment 1 website!!!
-Below is a meme I have created using Rstudio and the [magick](https://cran.r-project.org/web/packages/magick/vignettes/intro.html) package
+Below is a meme I have created using Rstudio and the [magick](https://cran.r-project.org/web/packages/magick/vignettes/intro.html) package.
 
 
 ![](spongebob_meme.png)
@@ -26,8 +26,8 @@ sb_vector <- c(top_row, bottom_row)
 meme_image <- image_append(sb_vector, stack = TRUE)
 meme_image
 ```
-**The creation**
-xxxxxxxxxxxxxxxxx
+**The process:**
+This meme was created by combining two online images and two annotated squares using the `c()` function. Each image and square were set to 500 pixels in size so that the final product would be a 1000 pixel square image containing the four smaller images. However an issue that came up was that both online images were not square, resulting in only the widths being 500 pixels and the heights being around 300-400 pixels. To fix this issue, I adjusted only the height of the top and bottom row squares to the same height as its corresponding image. This still made the overall meme 1000 pixels wide but it was shorten to 756 pixels.
 
 **This meme was created with the idea of:**
 1. *Viewing the top left text first*
