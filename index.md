@@ -26,9 +26,12 @@ sb_vector <- c(top_row, bottom_row)
 meme_image <- image_append(sb_vector, stack = TRUE)
 meme_image
 ```
+**The creation**
+xxxxxxxxxxxxxxxxx
+
 **This meme was created with the idea of:**
 1. *Viewing the top left text first*
-2. *Then across to top right image*
+2. *Then across to the top right image*
 3. *Then below to the bottom right text*
 4. *And finally across to the bottom left image*
 
