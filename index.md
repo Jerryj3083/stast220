@@ -1,9 +1,8 @@
-# Assignment 1 Part A
-## Spongebob meme
+# Assignment 1
+## Welcome!!!
 
 
 ![](spongebob_meme.png)
-
 
 ```
 library(magick)
@@ -26,3 +25,13 @@ sb_vector <- c(top_row, bottom_row)
 meme_image <- image_append(sb_vector, stack = TRUE)
 meme_image
 ```
+Main inspiration for the meme:
+* Relateable for a lot of students
+
+This meme was created with the idea of:
+1. Viewing the top left text first 
+2. Then across to top right image
+3. Then viewing the bottom right text
+4. And finally across to the bottom left image
+
+
