@@ -1,5 +1,6 @@
 # Assignment 1
-## Welcome!!!
+## Welcome to my Assignment 1 website!!!
+Below is a meme I have created using Rstudio
 
 
 ![](spongebob_meme.png)
@@ -25,13 +26,20 @@ sb_vector <- c(top_row, bottom_row)
 meme_image <- image_append(sb_vector, stack = TRUE)
 meme_image
 ```
-Main inspiration for the meme:
-* Relateable for a lot of students
+**This meme was created with the idea of:**
+1. *Viewing the top left text first*
+2. *Then across to top right image*
+3. *Then below to the bottom right text*
+4. *And finally across to the bottom left image*
 
-This meme was created with the idea of:
-1. Viewing the top left text first 
-2. Then across to top right image
-3. Then viewing the bottom right text
-4. And finally across to the bottom left image
+I formatted the meme to have images and text alternate so it would contrast better and look even. As a result, the viewing experience goes in a cycle rather than going left to right twice.
+
+**Inspiration for creating the meme:**
+* *Somewhat shows how I'm coping with life*
+* *Relateable for a lot of students*
+* *Spongebob is cool*
+
+
+
 
 
