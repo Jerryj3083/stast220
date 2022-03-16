@@ -1,6 +1,6 @@
 # Assignment 1
 ## Welcome to my Assignment 1 website!!!
-Below is a meme I have created using Rstudio
+Below is a meme I have created using Rstudio and the [magick](https://cran.r-project.org/web/packages/magick/vignettes/intro.html) package
 
 
 ![](spongebob_meme.png)
@@ -32,14 +32,12 @@ meme_image
 3. *Then below to the bottom right text*
 4. *And finally across to the bottom left image*
 
-I formatted the meme to have images and text alternate so it would contrast better and look even. As a result, the viewing experience goes in a cycle rather than going left to right twice.
+I formatted the meme to have the images and text alternate so it would contrast better and look even. As a result, the viewing experience goes in a cycle rather than going left to right twice.
 
 **Inspiration for creating the meme:**
 * *Somewhat shows how I'm coping with life*
 * *Relateable for a lot of students*
 * *Spongebob is cool*
 
-
-
-
+![](https://media.vlipsy.com/vlips/pTQzQRA1/preview.jpg)
 
