@@ -1,6 +1,6 @@
 # Stats220
 
-## Hello and welcome to my stats220 repo!!!
+## Hello and welcome to my [stats220 repo](https://github.com/Jerryj3083/stats220)!!!
 
 I am a second year student from New Zealand studing at the University of Auckland. This repo has been created for a very fun course I am currently doing, stats220 whichi includes coding using R. I will be sharing and uploading assignments/projects done in this course so I hope you enjoy and stay tuned for the future.
 
